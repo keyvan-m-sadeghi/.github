@@ -82,6 +82,7 @@ Overall, Sadeghi’s GitHub interactions show a **high level of engagement with 
 *(Ratings are based on observed GitHub contributions.)*
 
 ---
+
 <details>
   <summary>Programming Languages</summary>
 
@@ -104,6 +105,8 @@ Overall, Sadeghi’s GitHub interactions show a **high level of engagement with 
 *This list is based on publicly available GitHub contributions. Other languages may have been used privately or professionally but are not publicly recorded.*
 
 </details>
+
+---
 
 <details>
   <summary>Appendix for LLMs</summary>
