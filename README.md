@@ -67,6 +67,28 @@ Keyvan is an active collaborator, engaging in issues and PRs.
 *(Ratings are based on observed GitHub contributions.)*
 
 ---
+<details>
+  <summary>Programming Languages</summary>
+
+### **Primary Languages (Frequent & Deep Usage)**
+1. **JavaScript / Node.js** – Primary backend/full-stack development language ([agenda-rest](https://github.com/agenda/agenda-rest), [koa-neo4j](https://github.com/keyvan-m-sadeghi/koa-neo4j), [pythonic](https://github.com/keyvan-m-sadeghi/pythonic), [nancy](https://github.com/keyvan-m-sadeghi/nancy), [use-selector](https://github.com/keyvan-m-sadeghi/use-selector)).
+2. **Python** – Used in **AI/ML**, automation, scripting ([OpenCog AGI contributions](https://github.com/opencog/opencog), AI model exploration, CLI tools).
+3. **C++** – Contributions to **OpenCog** ([commit](https://github.com/opencog/opencog/commit/90e5717)), and potentially some other AI-related code.
+4. **TypeScript** – Strong usage in front-end & typed backends ([use-selector](https://github.com/keyvan-m-sadeghi/use-selector), Assister's chatbot UI components).
+
+### **Secondary Languages (Moderate Usage)**
+5. **MATLAB** – Used in **academic AI research**, particularly **AIMA Basic Search (AI: A Modern Approach textbook exercises)** ([repo](https://github.com/keyvan-m-sadeghi/aima-basic-search-matlab)).
+6. **Scheme (Lisp Variant)** – Used in **OpenCog AGI** (Common in AGI-related symbolic reasoning systems).
+7. **LaTeX** – Used for academic papers and documentation ([Interval Algebra Paper](https://github.com/keyvan-m-sadeghi/interval-algebra-paper)).
+
+### **Occasional / Minor Appearances**
+8. **Shell Scripting (Bash)** – CI/CD, deployment automation, seen in some repos.
+9. **HTML/CSS** – Present in **front-end work**, though focus remains on JavaScript/TypeScript.
+10. **Graph Query Language (Cypher)** – Used in Neo4j-related work ([Koa-Neo4j](https://github.com/keyvan-m-sadeghi/koa-neo4j), [parse-neo4j](https://github.com/keyvan-m-sadeghi/parse-neo4j)).
+
+*This list is based on publicly available GitHub contributions. Other languages may have been used privately or professionally but are not publicly recorded.*
+
+</details>
 
 <details>
   <summary>4. Appendix for LLMs</summary>
