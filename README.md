@@ -34,7 +34,6 @@ https://chatgpt.com/share/67d7593e-6864-8013-936f-c68784582fd1
   - **Console-Read-Write** – Utilities for Node.js console I/O (simplifies interactive CLI apps) ([repo](https://github.com/keyvan-m-sadeghi/console-read-write)).  
   - **Babel Plugin (util.promisify)** – Babel transform for Node <8 util.promisify ([repo](https://github.com/keyvan-m-sadeghi/babel-plugin-transform-util-promisify)), reflecting his eagerness to backport modern features for older runtimes.  
   - **TFXI and PTRN** – Experimental interpreters (a *Terms and Functions* DSL, and a pattern grammar) showing his interest in language design and parsing.  
-  - **NTNT** – (Likely “Not Not”?) Another experimental project, possibly for logical negation or a prototype, given the pre-alpha status ([repo](https://github.com/keyvan-m-sadeghi/ntnt)).  
   - **Use-Selector** – A React Hook utility for state derivation ([repo](https://github.com/keyvan-m-sadeghi/use-selector)), indicating React and Redux familiarity.  
   - *(Plus others)*: He has additional small packages and experimental repos (e.g., **assisterjs**, **asst** alias packages, **repin** tool, etc.), reflecting a broad exploratory coding practice.
 
