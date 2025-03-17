@@ -67,17 +67,18 @@ Overall, Sadeghi’s GitHub interactions show a **high level of engagement with 
 
 ## 3. Skills Assessment
 
-| Skill                     | Score (%) |
-|---------------------------|----------|
-| **JavaScript/Node.js**    | 95%      |
-| **Software Architecture** | 90%      |
-| **Graph Databases**       | 85%      |
-| **Async Programming**     | 90%      |
-| **AI/ML Concepts**        | 85%      |
-| **Python**                | 75%      |
-| **Functional Programming**| 80%      |
-| **Docs/Communication**    | 95%      |
-| **DevOps/Deployment**     | 75%      |
+| Skill                      | Score (%) | Description                                                                                                                                                                                                                                                                                                                                                                      |
+|----------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **JavaScript/Node.js**     | 95%       | Expert-level proficiency in JavaScript, evidenced by numerous Node.js libraries (e.g., `pythonic`, `agenda-rest`, Koa integrations) and modern JS practices. He is comfortable with asynchronous patterns (Promises, async/await) and tooling (webpack, Babel). His active involvement in frameworks like Vite and Ionic issues further underscores this strength.    |
+| **Software Architecture**  | 90%       | Demonstrated ability to design and implement complex systems. Examples include architecting the Assister platform (a multi-package NLP system) and the Functionland Box stack (integrating clients, servers, and protocols for a decentralized cloud). He emphasizes scalability and maintainability, pairing high-level vision with practical execution.                           |
+| **Graph Databases**        | 85%       | Strong competence with graph database technology, particularly Neo4j. He created the Koa-Neo4j framework and designed custom graph data models. His work shows deep knowledge of Cypher, graph schemas, and integrating graph DBs into web services, including handling authentication and REST API patterns.                                                         |
+| **Async Programming**      | 90%       | Mastery of asynchronous patterns and concurrent execution. He built a Promise library from scratch (Nancy) and utilities like `async-counter` for flow control. His discussions reveal a robust understanding of event loops, non-blocking I/O, and async issues such as ensuring proper behavior in Outlook add-ins and polyfilling Node globals for browsers.       |
+| **AI/ML Concepts**         | 85%       | Solid background in AI with formal education and contributions to AGI projects like OpenCog. He has applied machine learning knowledge in product contexts (e.g., exploring PyTorch WASM execution) and published research. Although fewer open-source ML algorithms are visible, his expertise is evident in design discussions and startup initiatives in conversational AI. |
+| **Python**                 | 75%       | Demonstrates competence in Python for scripting, automation, and AI-related tasks. He uses Python in projects such as OpenCog and for various tooling efforts, showing a solid grasp of the language and its ecosystem.                                                                                                                                               |
+| **Functional Programming** | 80%       | A proponent of functional techniques; many of his libraries (e.g., Pythonic, Nancy) use generators, pure functions, and immutability. He discusses currying and generics in TypeScript issues, reflecting a strong mindset for functional design and the creation of iterable abstractions.                                                                             |
+| **Docs/Communication**     | 95%       | Exceptional ability to document and explain. Nearly every project features clear README documentation, detailed comments, and tutorials. His issue discussions effectively communicate complex ideas, greatly enhancing collaboration and community engagement.                                                                                                          |
+| **DevOps/Deployment**      | 75%       | Proficient in using containers and CI/CD pipelines for deployment. He includes Dockerfiles in projects (e.g., agenda-rest) and employs Travis CI for continuous integration. Familiar with cloud and on-premise trade-offs, as demonstrated in the Functionland Box stack, showing competency in setting up robust deployment infrastructures.                         |
+
 
 *(Ratings are based on observed GitHub contributions.)*
 
