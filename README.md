@@ -1,6 +1,6 @@
 # Keyvan M. Sadeghi’s GitHub Activity Analysis
 
-Conducted by OpenAI "Deep Research":
+Conducted by `OpenAI Deep Research`:
 https://chatgpt.com/share/67d7593e-6864-8013-936f-c68784582fd1
 
 <details>
