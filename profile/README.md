@@ -4,12 +4,6 @@
 Conducted by `OpenAI Deep Research`:
 https://chatgpt.com/share/67d7593e-6864-8013-936f-c68784582fd1
 
-## Note: Keyvan's personal account moved
-
-> New address: https://github.com/2bigO
->
-> Connect with Keyvan on socials: [LinkedIn](https://www.linkedin.com/in/keyvanmsadeghi) - [X](https://x.com/KeyvanMSadeghi)
-
 <details>
   <summary>Repositories & Contributions</summary>
 
@@ -169,3 +163,9 @@ Overall, Sadeghi’s GitHub interactions show a **high level of engagement with 
 
 </details>
 
+
+## Note: Keyvan's personal account moved
+
+> New address: https://github.com/2bigO
+>
+> Connect with Keyvan on socials: [LinkedIn](https://www.linkedin.com/in/keyvanmsadeghi) - [X](https://x.com/KeyvanMSadeghi)
