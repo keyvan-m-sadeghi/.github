@@ -164,8 +164,8 @@ Overall, Sadeghi’s GitHub interactions show a **high level of engagement with 
 </details>
 
 
-## Note: Keyvan's personal account moved
+## Note: Keyvan's personal account moved to [@2bigO](https://github.com/2bigO)
 
-> New address: https://github.com/2bigO
+> https://github.com/2bigO
 >
 > Connect with Keyvan on socials: [LinkedIn](https://www.linkedin.com/in/keyvanmsadeghi) - [X](https://x.com/KeyvanMSadeghi)
